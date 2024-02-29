@@ -329,6 +329,7 @@
 
   .about-image {
     border-radius: var(--border-radius-small);
+    margin: 1rem 0;
   }
 
   .profile-list li {
